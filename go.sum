@@ -214,8 +214,6 @@ github.com/multiformats/go-multiaddr-net v1.7.1 h1:1k758hMzdVA8+qE2z705TNWeemoi+
 github.com/multiformats/go-multiaddr-net v1.7.1/go.mod h1:AO4WqKzxLt+paJ0N0kufj6teQ2R6fZbnItDvGTwilmk=
 github.com/multiformats/go-multibase v0.3.0 h1:KWPXEW0HCkqUHO7XZsoo0jwephTxh9roPT5fro7q0sw=
 github.com/multiformats/go-multibase v0.3.0/go.mod h1:RUrDbdRB1mQ1K/3PAh7h7+6NliRK10PA5joM8V0IYLI=
-github.com/multiformats/go-multihash v1.0.8 h1:pyowaBSivNxBr137ZjYkr0q4o41MKSJVPKuO7F7AAfY=
-github.com/multiformats/go-multihash v1.0.8/go.mod h1:sT17phG+xVgnrZc8ht/ZoCIV0sKRwvmZkXk46UfSxM4=
 github.com/multiformats/go-multistream v0.3.9 h1:ZqVaUxtVzjRUCGaO3596vk/rj9UXheIGAdKXXo/VKUA=
 github.com/multiformats/go-multistream v0.3.9/go.mod h1:fJTiDfXJVmItycydCnNx4+wSzZ5NwG2FEVAI30fiovg=
 github.com/opentracing/opentracing-go v1.0.2 h1:3jA2P6O1F9UOrWVpwrIo17pu01KWvNWg4X946/Y5Zwg=
