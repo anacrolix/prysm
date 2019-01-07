@@ -10,7 +10,7 @@ matrix:
         - lint
       script:
         - 
-          go get github.com/alecthomas/gometalinter && gometalinter --install && gometalinter ./...
+          GO111MODULE=off go get github.com/alecthomas/gometalinter && gometalinter --install && gometalinter ./...
     - os: linux
       go: 1.11.x
       env:
